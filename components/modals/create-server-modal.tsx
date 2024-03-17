@@ -97,6 +97,7 @@ const CreateServerModal = () => {
                           value={field.value}
                         />
                       </FormLabel>
+                      <FormMessage />
                     </FormItem>
                   )}
                 />
